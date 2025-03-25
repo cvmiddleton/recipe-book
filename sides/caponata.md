@@ -38,5 +38,5 @@
  - caramelise your onions with a teaspoon of sugar for a topping
  - chop and toast your blanched almonds
 
-to serve:
+## to serve:
  - top with onions, blanched almonds and basil!
