@@ -1,29 +1,29 @@
 # sicilian aubergine salad
 
-##ingredients:
+## ingredients:
  - aubergine
  - basil
  - olives
  - tomato passata
  - white wine vinegar
  - onions
-##optional:
+## optional:
  - blanched almonds
  - capers
  - extra onion for caramelising
 
 
 
-##instructions:
+## instructions:
  - dice the aubergine
  - shallow fry the aubergine until golden and translucent
   - dab off excess oil (this is a big undertaking.)
 
-##meanwhile:
+## meanwhile:
   - soak capers to remove the saltiness of the brine (approx 10 mins) and rinse off
   - then acidulate in vinegar
 
-##then:
+## then:
   - sauté onions until golden and translucent
   - add aubergine chunks and continue to sauté for 5 mins
   - stir in passata
@@ -34,7 +34,7 @@
   - taste as you go!
 
 
-optional:
+## optional:
  - caramelise your onions with a teaspoon of sugar for a topping
  - chop and toast your blanched almonds
 
