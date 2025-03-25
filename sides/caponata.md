@@ -7,6 +7,7 @@
  - tomato passata
  - white wine vinegar
  - onions
+ - celery
 ## optional:
  - blanched almonds
  - capers
@@ -22,16 +23,18 @@
 ## meanwhile:
   - soak capers to remove the saltiness of the brine (approx 10 mins) and rinse off
   - then acidulate in vinegar
+  - blanch your celery! slice into fine crescents
 
 ## then:
   - sauté onions until golden and translucent
   - add aubergine chunks and continue to sauté for 5 mins
   - stir in passata
+  - add celery
   - add a generous splash of white-wine vinegar
   - add capers
   - add salt
   - add sliced olives
-  - taste as you go!
+  - cook for another half an hour or so, taste as you go!
 
 
 ## optional:
