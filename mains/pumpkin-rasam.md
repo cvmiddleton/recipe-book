@@ -33,10 +33,10 @@ Use up a pumpkin with a warming fruity rasam. (You can do this with any kind of 
   - Roast your pumpkin chunks in an oven with oil, salt, pepper. If you have kept the skin, set aside some bits with nice rind for toppings.
    
   ## Prepare rasam!
-  - Cook onions and garlic in a little oil until transclucent
+  - Cook onions and garlic in a tablespoon of oil until transclucent
   - Add your split peas, tomato and all spices
   - Rinse your tomato can out for extra water
-  - cook on medium heat for about 20 minutes, strirring consistently.
+  - cook on medium heat for about 20 minutes, stirring occasionally.
   - Add chunks of roasted pumpkin and tamarind paste.
   - Cook for a further 10 minutes. While cooking, season with salt as required.
   - Split peas should be soft when it is time to serve. Adjust timings/water until the consistency looks nice.
