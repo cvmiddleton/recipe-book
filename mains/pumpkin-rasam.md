@@ -3,7 +3,7 @@
 Use up a pumpkin with a warming fruity rasam. (You can do this with any kind of squash, or even substitute the squash for something like a pear.)
 
 ## Ingredients
- - pumpkin - recommend a white "ghost" pumpkin. The flesh should be soft and orange, and smell kind of melon-ey.
+ - pumpkin - any is ok but recommend a white "ghost" pumpkin. The flesh should be soft and orange, and smell kind of melon-ey.
  - yellow split peas (could also use red lentils)
  - onion
  - garlic
